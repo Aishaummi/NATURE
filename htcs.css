@@ -38,3 +38,8 @@ font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida San
 div{color:forestgreen; font-size: 20px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;  }
 
+img{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
