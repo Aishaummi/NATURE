@@ -43,3 +43,31 @@ img{
   justify-items: center;
   align-items: center;
 }
+.left-col{
+  width: 75%;
+  height: 100vh;
+}
+
+.contact-me-nav{
+  list-style-type: none;
+  margin: 0;
+  display: flex;
+}
+.contact-me-nav i{
+  padding: 0 7px;
+}
+
+.contact-me-box{
+  display: inline-flex;
+  padding: 10px 0;
+  justify-content: space-around;
+  margin-top: 10px;
+  width: 100%;
+}
+.right-col{
+  width: calc(100% - 75%);
+}
+
+.socials > ul{
+  padding: 5px;
+}
